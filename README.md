@@ -1,1 +1,2 @@
 # Social-Network-Application
+A Facebook-inspired social network simulation implemented in C++. The application supports users, pages, posts, comments, likes, friend management, timelines, home feeds, and memory sharing. Data is loaded from text files and managed using dynamic data structures. The project demonstrates key OOP concepts including inheritance, polymorphism, abstraction, composition, and manual memory management.
